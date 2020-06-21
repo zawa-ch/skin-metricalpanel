@@ -1,0 +1,3 @@
+# skin-MetricalPanel
+
+AIMPのためのスタイリッシュなスキン
